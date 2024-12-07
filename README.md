@@ -1,7 +1,7 @@
 ```markdown
 # Python Quiz App
 
-A simple Flask-based quiz application.
+A simple Flask-based quiz application
 
 ## Prerequisites
 
