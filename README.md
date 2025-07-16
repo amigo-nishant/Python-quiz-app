@@ -4,7 +4,11 @@
 ## Prerequisites
 
 - Python 3.x --> https://www.python.org/downloads/source/   ==> NOTE: Python is by default installed on Ubuntu
-- `pip` - Python package installer ( sudo apt install python3-pip )
+- `pip` - Python package installer
+   ```
+   sudo apt-get update -y
+   sudo apt install python3-pip
+   ```
 - Docker Installed 
 
 ### Setup steps locally before writing Dockerfile
