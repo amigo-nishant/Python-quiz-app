@@ -1,20 +1,20 @@
-```markdown
-# Python Quiz App
 
-A simple Flask-based quiz application
+# A simple Flask-based quiz application
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.x --> 
 - `pip` (Python package installer)
+- Docker Installed
 
-## Setup
+### Setup steps locally before writing Dockerfile
 
 1. Clone the repository:
 
+   ```
    git clone https://github.com/amigo-nishant/Python-quiz-app.git
-```
-
+   ```
+   
 1. Navigate to the project directory:
     
     ```
