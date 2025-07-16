@@ -27,11 +27,11 @@
     sudo apt install python3-venv -y
     ```
     
-3. Activate the virtual environment: NOTE - if venv is broken delete the venv via rm -rf venv and then activate
+3. Activate the virtual environment: 
     
     ```
-    rm -rf venv
     python3 -m venv venv
+    source venv/bin/activate
     ```
     
 4. Install dependencies:
