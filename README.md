@@ -1,11 +1,11 @@
 
-# A simple Flask-based quiz application
+# A Flask-based application
 
 ## Prerequisites
 
-- Python 3.x --> 
-- `pip` (Python package installer)
-- Docker Installed
+- Python 3.x --> https://www.python.org/downloads/source/
+- `pip` - Python package installer ( sudo apt install python3-pip )
+- Docker Installed 
 
 ### Setup steps locally before writing Dockerfile
 
