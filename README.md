@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-- Python 3.x --> https://www.python.org/downloads/source/
+- Python 3.x --> https://www.python.org/downloads/source/   ==> NOTE: Python is b default installed on Ubuntu
 - `pip` - Python package installer ( sudo apt install python3-pip )
 - Docker Installed 
 
