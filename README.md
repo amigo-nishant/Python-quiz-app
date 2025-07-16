@@ -24,13 +24,14 @@
 2. Create a virtual environment:
     
     ```
+    sudo apt install python3-venv -y
+    ```
+    
+3. Activate the virtual environment: NOTE - if venv is broken delete the venv via rm -rf venv and then activate
+    
+    ```
+    rm -rf venv
     python3 -m venv venv
-    ```
-    
-3. Activate the virtual environment:
-    
-    ```
-    source venv/bin/activate
     ```
     
 4. Install dependencies:
@@ -54,7 +55,7 @@
     python app.py
     ```
     
-3. Open your web browser and visit [http://localhost:5000](http://localhost:5000/) or http://127.0.0.1:5000/quiz to access the Python Quiz App.
+3. Open your web browser and visit [http://PublicIP:5000](http://PublicIP:5000/) to access the Python Quiz App.
 
 ## **Deactivate the Virtual Environment**
 
